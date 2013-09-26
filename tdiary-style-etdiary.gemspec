@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Tdiary::Style::Etdiary::VERSION
   spec.authors       = ["SHIBATA Hiroshi"]
   spec.email         = ["shibata.hiroshi@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{etDiary Style for tDiary}
+  spec.summary       = %q{etDiary Style for tDiary}
   spec.homepage      = ""
   spec.license       = "MIT"
 
