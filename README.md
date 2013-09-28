@@ -1,6 +1,6 @@
 # Tdiary::Style::Etdiary
 
-TODO: Write a gem description
+etdiary_style.rb: tDiary style class for etDiary format.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+if you want to use this style, add @style into tdiary.conf below:
+
+    @style = 'etDiary'
 
 ## Contributing
 
