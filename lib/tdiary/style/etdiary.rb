@@ -272,8 +272,6 @@ module TDiary
 		end
 
 		class EtdiaryDiary
-			include CategorizableDiary
-
 			TAG_BEG_REGEXP = /\A<([A-Za-z][0-9A-Za-z]*)([^>]*)>([^\r]*)\z/
 			TAG_END_REGEXP = /\A([^\r]*)<\/([A-Za-z][0-9A-Za-z]*)>\n*\z/
 			PRE_REGEXP     = /\A<[Pp][Rr][Ee][^>]*>([^\r]*)<\/[Pp][Rr][Ee]>\n*\z/
