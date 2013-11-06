@@ -5,12 +5,12 @@ require 'tdiary/style/etdiary/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "tdiary-style-etdiary"
-  spec.version       = Tdiary::Style::Etdiary::VERSION
+  spec.version       = TDiary::Style::Etdiary::VERSION
   spec.authors       = ["SHIBATA Hiroshi"]
   spec.email         = ["shibata.hiroshi@gmail.com"]
   spec.description   = %q{etDiary Style for tDiary}
   spec.summary       = %q{etDiary Style for tDiary}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tdiary/tdiary-style-etdiary"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

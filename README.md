@@ -1,4 +1,4 @@
-# Tdiary::Style::Etdiary
+# TDiary::Style::Etdiary
 
 etdiary_style.rb: tDiary style class for etDiary format.
 
