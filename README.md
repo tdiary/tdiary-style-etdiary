@@ -4,17 +4,13 @@ etdiary_style.rb: tDiary style class for etDiary format.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your tDiary's Gemfile.local:
 
     gem 'tdiary-style-etdiary'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install tdiary-style-etdiary
 
 ## Usage
 
